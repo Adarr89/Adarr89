@@ -8,6 +8,7 @@ My Name is James Burman. I am a first-year computer science student at Oxford Br
 
 ### Word embedding de-biaser
 This was a project that I worked on for a piece of coursework in my Sixth form education. Everyone knows what LLMs and generative AI are, and most people know that they work by predicting the next word in a sentence based on a topic. But they learn this from human data, leading to the inherent bias. With this project, I tackled the problem at the level of vector word embedding that looks to isolate and remove the dimension denoting gender for professional environment topics.
+  - For this project, I leaned on a paper that researchers Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama and Adam Kalai created for their Paper "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings"
 
 ### Flight ticket price, web scraper
 I still use this project. It's a simple program using Selenium and Beautifulsoup4 to scrape flight data from Google Flights and display cost, time of departure, airline, and travel time in a CSV file.
