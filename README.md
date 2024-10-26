@@ -1,4 +1,4 @@
-#👋 Hi, I'm @Adarr89
+# 👋 Hi, I'm @Adarr89
 
 
 My Name is James Burman. I am a first-year computer science student at Oxford Brookes University. I enjoy programming, reading, climbing, and learning languages. I can speak English and Spanish, and I can speak Portuguese conversationally. I am currently learning German. I am a reasonably capable Python programmer and have used other languages such as C#, C++, Java, and Lua.
