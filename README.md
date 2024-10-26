@@ -4,7 +4,7 @@
 My Name is James Burman. I am a first-year computer science student at Oxford Brookes University. I enjoy programming, reading, climbing, and learning languages. I can speak English and Spanish, and I can speak Portuguese conversationally. I am currently learning German. I am a reasonably capable Python programmer and have used other languages such as C#, C++, Java, and Lua.
 
 
-##Some of my projects
+## Some of my projects
 
 ### Word embedding de-biaser
 This was a project that I worked on for a piece of coursework in my Sixth form education. Everyone knows what LLMs and generative AI are, and most people know that they work by predicting the next word in a sentence based on a topic. But they learn this from human data, leading to the inherent bias. With this project, I tackled the problem at the level of vector word embedding that looks to isolate and remove the dimension denoting gender for professional environment topics.
