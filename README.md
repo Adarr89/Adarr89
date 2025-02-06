@@ -18,7 +18,7 @@ This was a project that I made when I was fed up with not being able to find Gui
   - This project is still a work in progress
 
 ### Rotating cube in C++
-This was a fun project that I did, applying my knowledge of trigonometry to simulate a rotating cube in 3D space on a 2D plane.
+This was a fun project that I did, applying my knowledge of trigonometry and Matricies to simulate a rotating cube in 3D space on a 2D plane.
 
 
 
