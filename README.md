@@ -15,7 +15,7 @@ I still use this project. It's a simple program using Selenium and Beautifulsoup
 
 ### Wav file to chords
 This was a project that I made when I was fed up with not being able to find Guitar tabs for free online. Given an inputted WAV file, it breaks it up into samples of n beats in length. Then, it uses a Fourier analysis to find the most intense frequency in a given sample, returning that frequency as a note + octave combination. 
-  - This project needs to be given some solid test cases to check how well it is working
+  - This project is still a work in progress
 
 ### Rotating cube in C++
 This was a fun project that I did, applying my knowledge of trigonometry to simulate a rotating cube in 3D space on a 2D plane.
